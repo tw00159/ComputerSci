@@ -1,0 +1,11 @@
+Jason Inouye;Conference;250.00;11/10/2016
+Jason Inouye;Lodging;78.95;11/10/2016
+Mary Ryan;Dinner;16.95;11/10/2016
+Mark Twain;Dinner;25.50;11/10/2016
+Mark Twain;Spa;50.00;11/10/2016
+Steven Hawking;Conference;250.00;11/10/2016
+Steven Hawking;Room Service;45.00;11/11/2016
+Steven Hawking;Lodging;78.95;11/11/2016
+Ayrton Senna;Room Service;23.20;11/10/2016
+Ayton Senna;Dinner;22.50;11/10/2016
+Ayton Senna;Lodging;78.95;11/10/2016

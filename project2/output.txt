@@ -1,0 +1,6 @@
+1. Programmer's Name: Taylor Wilson
+2. Fri Feb 28 12:19:27 PST 2020
+3. Project name: Project 2
+4. Person[Name = John, Year of Birth = 1957]
+5. Student[Name = Kim, Year of Birth = 1966, Major = Biology]
+6. Instructor[Name = Peter, Year of Birth = 2000, Salary = $40,000.25]
